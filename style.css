@@ -178,3 +178,12 @@ footer {
     padding: 20px;
     margin-top: 30px;
 }
+
+#rss-output {
+    margin-top: 15px;
+    padding: 15px;
+    background-color: #f4f6f8;
+    border: 1px solid #ddd;
+    white-space: pre-wrap;
+    overflow-x: auto;
+}
