@@ -1,0 +1,11 @@
+node_modules
+dist
+**/target/
+output/
+tmp/
+__pycache__/
+*.py[cod]
+~$*.docx
+.env
+.env.*
+!.env.example
